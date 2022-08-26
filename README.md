@@ -1,6 +1,8 @@
 # Extra-Overlays
 A magisk module that adds more WiFi and Signal icons to Android 12 / 12.1 AOSP roms.
 
+- [Downloads](https://github.com/MrErenK/Extra-Overlays/releases/latest)
+
 - Signal Icons Before
  
 ![Before](https://github.com/MrErenK/Extra-Overlays/blob/screenshots/signal_icons/before.jpg?raw=true)
