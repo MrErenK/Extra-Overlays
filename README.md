@@ -1,10 +1,14 @@
 # Extra-Overlays
 A magisk module that adds more WiFi and Signal icons to Android 12 / 12.1 AOSP roms.
 
-Credits
+[Download](https://github.com/MrErenK/Extra-Overlays/releases/latest)
+</div><br>
+<h2>Credits:</h2>
 
-Icons: [DerpFest](https://github.com/DerpFest-12) & [riceDroid](https://github.com/riceDroid)
-Screenshots: Sai Krishna from Telegram
+- Icons: [DerpFest](https://github.com/DerpFest-12) & [riceDroid](https://github.com/riceDroid)
+- Screenshots: Sai Krishna from Telegram
+<br>
+<h2>Screenshots:</h2>
 
 - Signal Icons Before
  
